@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Yash Chris Lakra
+## Hi there, I'm Yash Chris Lakra
 I’m currently studying Computer Science and Engineering (AI) 
 I’m currently exploring and learning the basics of programming
 
