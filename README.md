@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hi there 👋, I'm Yash Chris Lakra
+I’m currently studying Computer Science and Engineering (AI) 
+I’m currently exploring and learning the basics of programming
 
-<!--
-**yash-lakra/yash-lakra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Languages I'm Learning
+- **Python** 🐍 (Beginner)
+- **C** ⚙️ (Beginner)
+- **Java** ☕ (Beginner)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools
+- Git & GitHub
+- Visual Studio Code
